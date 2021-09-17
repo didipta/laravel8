@@ -1,0 +1,15 @@
+body {
+    font-family: 'Nunito', sans-serif;
+    margin: 10px;
+    background-color: black;
+}
+.carousel
+{
+   
+    margin:20px ;
+    
+}
+.carousel-item img
+{
+    max-height: 450px;
+}
